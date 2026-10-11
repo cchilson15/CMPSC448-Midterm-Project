@@ -1,0 +1,13 @@
+{
+  "seed": 42,
+  "max_length": 300,
+  "max_vocab": 15000,
+  "vocabulary_size": 8798,
+  "embedding_dim": 64,
+  "hidden_dim": 64,
+  "batch_size": 16,
+  "max_epochs": 12,
+  "learning_rate": 0.001,
+  "split": "70/15/15 by prompt_id",
+  "device": "mps"
+}

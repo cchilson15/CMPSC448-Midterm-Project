@@ -1,0 +1,4 @@
+LLM_name,samples,mean_word_count,median_word_count,mean_unique_word_ratio,mean_sentence_words,mean_bullet_lines,pct_responses_with_bullets,pct_responses_with_markdown_headings
+ChatGPT,100,332.48,227.5,0.561,15.861,12.75,60.0,5.0
+Gemini,100,401.4,395.0,0.501,18.42,8.41,76.0,73.0
+Qwen,100,400.84,393.5,0.487,15.801,11.63,68.0,69.0

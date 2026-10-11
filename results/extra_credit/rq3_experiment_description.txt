@@ -1,0 +1,1 @@
+Train: non-creative-writing categories; 80% prompt IDs for training and 20% for validation. Test: all creative-writing prompt IDs, unseen in model training. Input: LLM_output only. CNN and LSTM initialized from scratch. Validation macro F1 selects best epoch; held-out domain is tested once. This is an exploratory domain shift experiment with only one held-out domain.

@@ -1,0 +1,3 @@
+model,train_domain,test_domain,train_rows,validation_rows,test_rows,best_epoch,validation_macro_f1,unseen_domain_accuracy,unseen_domain_macro_f1
+CNN,non-creative-writing,creative-writing,192,48,60,2,0.7042807103290974,0.43333333333333335,0.37505335844318893
+LSTM,non-creative-writing,creative-writing,192,48,60,9,0.6574400487443965,0.36666666666666664,0.2394116868506386

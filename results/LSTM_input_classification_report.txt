@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+     ChatGPT       0.33      0.27      0.30        15
+        Qwen       0.33      0.60      0.43        15
+      Gemini       0.33      0.13      0.19        15
+
+    accuracy                           0.33        45
+   macro avg       0.33      0.33      0.31        45
+weighted avg       0.33      0.33      0.31        45
